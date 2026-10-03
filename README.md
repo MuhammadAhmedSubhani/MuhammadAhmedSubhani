@@ -49,9 +49,9 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Restaurant Management System](https://github.com/MuhammadAhmedSubhani/Restaurant-Management-System) | Console-based system for menu management, order processing, billing, and customer records with persistent file storage | C++, OOP, DSA, File Handling |
-| [US Taxation System](https://github.com/MuhammadAhmedSubhani/US-Taxation-System) | Console app for federal & state tax calculations with CSV export and input validation | C++, OOP, STL, CSV Export |
-| [Student Database (data_base)](https://github.com/MuhammadAhmedSubhani/data_base) | CRUD-based student record manager with automatic ID generation and voice feedback via pyttsx3 | Python, Dictionaries, pyttsx3 |
+| [Football-Prediction-Analysis](https://github.com/MuhammadAhmedSubhani/Football-Prediction-Analysis) | FIFA World Cup 2026 analytics dashboard featuring Monte Carlo match simulations, xG shot maps, pass vectors, and tactical heatmaps built with Python | Python, Html, Tailwind CSS, Chart.js, NumPy, Panda, Matplotlib, Seaborn |
+| [Intelligent-Multi-Class-Natural-Language-Text-Sentiment-Classifier](https://github.com/MuhammadAhmedSubhani/Intelligent-Multi-Class-Natural-Language-Text-Sentiment-Classifier) | A machine learning-based sentiment analysis project that classifies text into Positive, Negative, and Neutral sentiments. The project uses TF-IDF vectorization and a trained classification model to generate sentiment predictions along with probability scores. Built as part of my AI/ML internship, with a focus on NLP preprocessing, model | Python, NLTK, Pandas, NumPy, Scikit-learn, Joblib, Matplotlib, Seaborn, Flask, HTML, CSS, JavaScript |
+| [Space-Hub](https://github.com/MuhammadAhmedSubhani/Space-Hub) | An AI-powered space platform built with React, Node.js, NASA Open API, and Google Gemini AI for galaxy classification, astronomical fact-checking, and image processing. | **Frontend:** React 19, TypeScript, Vite, Tailwind CSS, Motion (Framer Motion), Lucide React, **Backend:** Node.js, Express, Multer, Sharp, AI &** External APIs:** Google Gen AI SDK (Gemini 3 Flash), NASA Open API, **Image Processing:** Sharp (Node.js) / OpenCV (Python pipeline) |
 
 ---
 
